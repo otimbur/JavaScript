@@ -203,11 +203,12 @@
 // Cteate a variable on specific type of number
 //nth:child  matches every element that is the nth childm of its parent.
 
-let odd = document.querySelectorAll('li:nth-child(odd)');
-let even = document.querySelectorAll('li:nth-child(even)');
+//let odd = document.querySelectorAll('li:nth-child(odd)');
+//let even = document.querySelectorAll('li:nth-child(even)');
+// use a for loop  assigning new value 
 
-for (var i = 0; i < odd.length; i++) {
-    odd[i].style.backgroundColor = 'grey';
-    even[i].style.backgroundColor = 'green';
-    even[i].style.color = 'whitesmoke';
-}
+//for (var i = 0; i < odd.length; i++) {
+//     odd[i].style.backgroundColor = 'grey';
+//     even[i].style.backgroundColor = 'green';
+//     even[i].style.color = 'whitesmoke';
+// }
