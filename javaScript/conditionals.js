@@ -42,3 +42,29 @@
 //     console.log('you are able to drive')
 // }
 
+// switch statements
+//  the code has same idea as if/else using cases
+
+
+const food = 'oranges';
+
+switch (food) {
+
+    case 'salad':
+        console('Salad is $3.5 ');
+        break;
+    case 'oranges':
+        console.log('Oranges are good');
+        break;
+    case 'tomato':
+        console.log('Ehh, this is what i was looking for');
+        break;
+    default:
+        console.log('sorry there is not what are u looking for');
+
+
+
+
+
+
+}
