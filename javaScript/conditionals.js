@@ -16,7 +16,7 @@
 // }
 
 // create an if/else statement
-const dayOfWeek = 'Monday';
+// const dayOfWeek = 'Monday';
 //If the first condition is false
 // if (dayOfWeek === 'Sunday') {
 //     console.log('Today is Sunday')
@@ -41,3 +41,4 @@ const dayOfWeek = 'Monday';
 // } else if (age >= 16) {
 //     console.log('you are able to drive')
 // }
+
